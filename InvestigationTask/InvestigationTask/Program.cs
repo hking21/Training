@@ -59,7 +59,7 @@ namespace InvestigationTask
                 } while (ans != calculations[i]);
             }
 
-            Console.WriteLine("\nCongratulations =) You've completed the exercise");
+            Console.WriteLine("\nCongratulations Holly! =) You've completed the exercise!");
             Console.ReadLine();
         }
 
